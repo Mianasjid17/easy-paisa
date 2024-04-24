@@ -1,9 +1,9 @@
 {
-  "name": "easypaisa_117",
+  "name": "asjid_easypaisa",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "bin": "index.js",
+  "main": "ieasypaisa.js",
+  "bin": "easypaisa.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
